@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React, Typescript, JavaScrip e Gestão de Mudanças
+- 🌱 Estudando React, Typescript, JavaScript e Gestão de Mudanças
 - 😄 Pronouns: ela/dela
 
 <div align="center">
