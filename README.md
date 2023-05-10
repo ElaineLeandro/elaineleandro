@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Elaine Leandro 👋🏻
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Dev Front-end
 - 🌱 Estudando React, Typescript, JavaScript e Gestão de Mudanças
 - 😄 Pronouns: ela/dela
 
