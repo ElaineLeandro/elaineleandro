@@ -1,8 +1,8 @@
 ### Oie! Eu sou a Elaine Leandro 👋🏻
 
 
-- 🔭 Dev Front-end
-- 🌱 Estudando React, Typescript, JavaScript e Gestão de Mudanças
+- 🔭 Desenvolvedora Web
+- 🌱 Estudando React, Typescript, JavaScript
 - 😄 Pronouns: ela/dela
 
 <div align="center">
