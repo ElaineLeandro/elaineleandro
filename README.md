@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedora Web
-- 🌱 Estudando React, Typescript, JavaScript
+- 🌱 Estudando React, Typescript, JavaScript, Inteligencia Artificial
 - 😄 Pronouns: ela/dela
 
 <div align="center">
